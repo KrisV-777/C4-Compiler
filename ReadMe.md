@@ -1,6 +1,6 @@
 # C4 Compiler
 
-A compiler for a subset of C, which I wrote as part of a university course I took during winter 2024. The project was originally intended to be done in a group of three and implemented step wise throughout the semester, however my group quit up halfway through the first phase, and I ended up implementing the entire project myself.  
+A compiler for a subset of C, which I wrote as part of a university course I took during winter 2024. The project was originally intended to be done in a group of three and was divided into multiple phases to be worked on step wise throughout the semester, however my group quit up halfway through the first phase, and I ended up implementing the entire project myself.  
 The implementation follows the [ISO Standard, Draft N1570](https://www.open-std.org/jtc1/sc22/wg14/www/docs/n1570.pdf) under the given constraints:
 
 ## Expressions (§6.5)
